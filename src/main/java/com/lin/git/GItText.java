@@ -9,6 +9,6 @@ public class GItText {
         System.out.println("hello git2!");
         System.out.println("hello git3!");
         System.out.println("hello main!");
-        System.out.println("hello fenzhi3!");
+        System.out.println("hello fenzhi2!");
     }
 }
